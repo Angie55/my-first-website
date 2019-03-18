@@ -11,7 +11,7 @@ What we learnt about and used include:
 
 **1. Command Line** <br>
 **2. Git** <br>
-**3. Github**
+**3. GitHub**
 
 It was a fantastic introduction to things we need to get our head around to be a developer in the real world!
 
